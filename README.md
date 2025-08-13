@@ -1,2 +1,2 @@
-# latihan01
-Latihan 01
+# Latihan 01
+Nama : Birlian Pangestu Wijang Setyoko
